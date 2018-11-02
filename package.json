@@ -1,0 +1,22 @@
+{
+  "name": "data-scraper",
+  "version": "1.0.0",
+  "description": "for later bc I don't know python",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfectimprints/data-scraper-js.git"
+  },
+  "author": "Patrick Black Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perfectimprints/data-scraper-js/issues"
+  },
+  "homepage": "https://github.com/perfectimprints/data-scraper-js#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
